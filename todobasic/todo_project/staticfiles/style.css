@@ -1,0 +1,19 @@
+.banner {
+  background-color: #007BFF;
+  padding: 20px;
+  height: 200px;
+  text-align: center;
+  position: relative;
+}
+  
+
+.banner-text {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+}
+  
